@@ -3,7 +3,7 @@
 写真家「麟-Lin-」さんのポートフォリオサイトです。HTML/CSS/JavaScriptのみで作られた
 静的サイトで、GitHub Pages(無料)にそのまま公開できます。サーバー処理やビルドは一切不要です。
 
-## ファイル構成
+## ファイル構成　
 
 ```
 lin-photography-site/
