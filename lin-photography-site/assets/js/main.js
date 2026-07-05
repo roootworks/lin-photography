@@ -34,6 +34,7 @@
       document.body.classList.remove("lock-scroll");
       var cue = document.getElementById("scroll-cue");
       if (cue) cue.classList.add("show");
+      if (siteHeader) siteHeader.classList.add("show");
     }, INTRO_LOCK_MS);
   }
 
